@@ -1,4 +1,4 @@
-## Hi there I am Mainul Hasan Shishir👋
+## Hi there I am a professional AI Automation and Workflow Architect as well as an AI Content Operations Lead👋
 
 <!--
 **mhs-shishir/mhs-shishir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
